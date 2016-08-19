@@ -30,6 +30,11 @@ img {
   width: 10%;
 }*/
 
+/* p preceded by an h1 */
+/*h1 ~ p {
+  color: blue;
+}*/
+
 /* Selecting multiple types of elements*/
 /*p, img {
   width: 10%;
