@@ -1,0 +1,49 @@
+
+/* Selecting HTML Elements */
+/*h1 {
+  color: red;
+}
+p {
+  color: red;
+  background-color: blue;
+}
+body {
+  color: blue;
+  background-color: blue;
+  padding: 20px;
+}
+img {
+  width: 100%;
+  clear: left;
+}*/
+
+/* Selecting by Class and ID */
+/*#heading {
+  color: blue;
+}
+.topics {
+  color: blue;
+}*/
+
+/* Selecting elements inside one another*/
+/*p img {
+  width: 10%;
+}*/
+
+/* Selecting multiple types of elements*/
+/*p, img {
+  width: 10%;
+}*/
+
+/* Select the element after */
+/*h1 + p {
+  background-color: blue;
+  color: white;
+}*/
+
+/* Do something on hover */
+/*p:hover {
+  background-color: black;
+  color: white;
+
+}*/
